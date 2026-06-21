@@ -1,10 +1,11 @@
 import { Component } from '@angular/core';
 
 import { CommonModule } from '@angular/common';
+import { FormsModule } from '@angular/forms';
 
 @Component({
   selector: 'app-courses',
-  imports: [CommonModule],
+  imports: [CommonModule, FormsModule],
   templateUrl: './courses.html',
   styleUrl: './courses.css'
 })
@@ -27,5 +28,15 @@ export class Courses {
       duration: "20 Days"
     }
   ];
+
+  selectedCourse = "";
+  searchText="";
+
+
+enroll(courseName:string){
+
+  this.selectedCourse = courseName;
+
+}
 
 }
