@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Week3/5. JWT-handson/Create authentication service that returns JWT/pom.xml" />
+        <option value="$PROJECT_DIR$/Week3/1. spring-rest-handson/Create a Spring Web Project using Maven/pom.xml" />
+        <option value="$PROJECT_DIR$/Week3/1. spring-rest-handson/Spring Core – Load Country from Spring Configuration XML/pom.xml" />
+        <option value="$PROJECT_DIR$/Week3/2. spring-rest-handson/REST - Country Web Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Week3/2. spring-rest-handson/Hello World RESTful Web Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Week3/2. spring-rest-handson/REST - Get country based on country code/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="23" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
